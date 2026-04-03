@@ -1,4 +1,4 @@
-# G2 Cluster
+# Unicorn Cluster
 [Cluster help page](https://it.coecis.cornell.edu/researchit/using-the-unicorn-cluster/)
 
 We have access to the Unicorn Cluster at Cornell. It's great! But if you've never used a computing cluster before, it might be daunting to get started. We've all had to start somewhere. Here are some tips to get you started, and don't be afraid to ask for help as you need it.
